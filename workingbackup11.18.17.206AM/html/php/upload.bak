@@ -1,0 +1,66 @@
+<?php
+header("refresh:3;url=../pages/protected/upload.html");
+$target_dir = getcwd()."/../docs/".$_POST["parent"]."/";
+$target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
+$target_file = str_replace(" ","_", $target_file);
+$uploadOk = 1;
+$imageFileType = pathinfo($target_file,PATHINFO_EXTENSION);
+$desc = $_POST["description"];
+$parent = $_POST["parent"];
+$title =$_POST["title"];
+// Check if image file is a actual image or fake image
+/*if(isset($_POST["submit"])) {
+    $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
+    if($check !== false) {
+        echo "File is an image - " . $check["mime"] . ".";
+        $uploadOk = 1;
+    } else {
+        echo "File is not an image.";
+        $uploadOk = 0;
+    }
+}*/
+ //Check if file already exists
+if (file_exists($target_file)) {
+    echo "Sorry, file already exists.";
+    $uploadOk = 0;
+}
+// Check file size
+if ($_FILES["fileToUpload"]["size"] > 20000000) {
+    echo "Sorry, your file is too large.";
+    $uploadOk = 0;
+}
+// Allow certain file formats
+if($imageFileType != "docx" && $imageFileType != "pptx" && $imageFileType != "xlsx"
+&& $imageFileType != "txt" ) {
+    echo "Sorry, only DOCX, PPTX, XLSX & TXT files are allowed.";
+    $uploadOk = 0;
+}
+// Check if $uploadOk is set to 0 by an error
+if ($uploadOk == 0) {
+    echo "Sorry, your file was not uploaded.";
+// if everything is ok, try to upload file
+} else {
+    if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
+        echo "The file ". basename( $_FILES["fileToUpload"]["name"]). " has been uploaded.";
+	copy("../docs/manifest.xml","../xmlbackups/".time());
+	$path = pathinfo($_FILES["fileToUpload"]["name"]);
+	$path = str_replace(" ","_",$path);
+	$fname = $path['filename'].".pdf";
+	//$fname = str_replace(" ","_", $fname);
+
+	$manifest = simplexml_load_file("../docs/manifest.xml");
+	$file = $manifest->addChild('file');
+	$file->addChild('description',$desc);
+	$file->addChild('parent',$parent);
+	$file->addChild('filename',$fname);
+	$file->addChild('title',$title);
+	echo $manifest->asXML("../docs/manifest.xml");
+
+	$newfname = $path['filename'].".".$path['extension'];
+	shell_exec("/var/www/html/php/converter.sh ".$target_dir.$newfname." ".$target_dir);
+    } else {
+        echo "Sorry, there was an error uploading your file.";
+    }
+}
+//echo '<script>window.location = "http://www.google.com/"</script>';
+?>
