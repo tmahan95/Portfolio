@@ -1,0 +1,16 @@
+<?php
+// I have a bunch of things I'm messing with, best way to go about this thing would be to simplify the structure as best I can, I won't have much, so load time should be find, especially if I can keep the load from happening before click.
+$xml = new SimpleXMLElement('<files/>');
+//looping through, adding folders from the glob, it's pretty dumb right now, I'd like to eventually have this baby add folder elements if they don't exist already, right now it's 
+	$file = $xml->addChild('file');// add it to the xml structure
+	$file->addChild('description', "This is ma desc of a file");
+	$file->addChild('parent','WebArchitecture');
+	$file->addChild('fileName', 'Case1draft.docx');
+
+	$file2 = $xml->addChild('file');
+	$file2->addChild('description',"Nother scription, yee haw");
+	$file2->addChild('parent', 'Development');
+	$file2->addChild('filename', 'Case1draft.docx');
+Header('Content-type: text/xml');
+print $xml->asXML();
+?>

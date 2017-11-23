@@ -1,0 +1,6 @@
+#AuthType Basic
+#AuthName "upload.html"
+#AuthBasicProvider file
+#AuthUserFile "/var/pass/portfolio"
+#AuthGroupFile "/var/pass/portfolioGroup"
+#Require group GroupName

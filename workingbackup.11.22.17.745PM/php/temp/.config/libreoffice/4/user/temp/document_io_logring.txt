@@ -1,0 +1,20 @@
+10m0(Build:2)
+
+Rethrow
+
+Rethrow
+Bad Zip File, IOException: Could not parse manifest.xml
+
+Rethrow
+
+Rethrow
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/sfxbasemodel.cxx:1698: storeToURL
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/objstor.cxx:1116: Begin
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/objstor.cxx:1317: SaveAs/Export
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/objstor.cxx:1330: Locking
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/objstor.cxx:1544: Storing in alien format.
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/objstor.cxx:1657: Medium commit.
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/objstor.cxx:1697: Storing has failed.
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/objstor.cxx:2868: 
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/objmisc.cxx:260: Resetting Error.
+/build/libreoffice-hXb58c/libreoffice-5.1.6~rc2/sfx2/source/doc/sfxbasemodel.cxx:3122: Storing failed!

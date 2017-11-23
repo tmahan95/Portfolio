@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/custom.css" rel="stylesheet">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/docstest.js"></script>
+  <script src="/bootstrap/js/bootstrap.min.js"></script>
+  <title>Upload</title>
+</head>
+<body>
+<div id="topnav"></div>
+
+
+<form action="/php/upload.php" method="post" enctype="multipart/form-data" id="newDoc">
+    Select file to upload:
+    <input type="file" name="fileToUpload" id="fileToUpload"><br>
+    Title
+    <input type="text" name="title"><br/>
+    Management of Information Systems
+    <input type="radio" name="parent" value="ManagementOfInformationSystems"><br>
+    Programming
+    <input type="radio" name="parent" value="Programming"><br>
+    Database
+    <input type="radio" name="parent" value="Database"><br>
+    Network Security
+    <input type="radio" name="parent" value="NetworkSecurity"><br>
+    Systems Analysis and Design
+    <input type="radio" name="parent" value="SystemsAnalysisAndDesign"><br>
+    Resume
+    <input type="radio" name="parent" value="Resume"><br>
+    <textarea rows="10" cols="75" form="newDoc" name="description"></textarea><br>
+    <input type="submit" value="Upload File" name="submit">
+</form><br/><br/>
+<form action="/php/link.php" method="post" id="linkProj">
+    Title
+    <input type="text" name="title"><br/>
+    Management of Information Systems
+    <input type="radio" name="parent" value="ManagementOfInformationSystems"><br>
+    Programming
+    <input type="radio" name="parent" value="Programming"><br>
+    Database
+    <input type="radio" name="parent" value="Database"><br>
+    Network Security
+    <input type="radio" name="parent" value="NetworkSecurity"><br>
+    Systems Analysis and Design
+    <input type="radio" name="parent" value="SystemsAnalysisAndDesign"><br>
+    Resume
+    <input type="radio" name="parent" value="Resume"><br>
+    Github rep URL
+    <input type="text" name="gitHubURL"><br/>
+    <textarea rows="10" cols="75" form="linkProj" name="description"></textarea><br> 
+    <input type="submit" value="Upload Link" name="submit">
+</form>
+<script src="/js/nav.js"></script>
+</body>
+</html>

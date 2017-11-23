@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<files>
+  <file>
+    <description>This is a case analysis of Burlington Northern, a railroad company. In the case the company is considering implementing the ARES system, which would require an investment of several hundred million dollars. In the case I analyze the costs and benefits associated with such a system, and conclude with a recommendation based on the evidence within the case.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Burlington_Northern.pdf</filename>
+    <title>Burlington Northern</title>
+  </file>
+  <file>
+    <description>This case analysis is centered around the organizational structure of the Appex corporation. Appex was a fast-paced, rapidly expanding company in the late 80's/early 90's. Focused on cellular technology, the company quickly ran into trouble with managing its ever expanding group of employees, getting projects out on time, and providing good customer service. Organizational structure is derived from organizational strategy and plays a role in determining IT architecture, the jobs created to support the architecture, and the people hired to filled the jobs.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Case_2_draft.pdf</filename>
+    <title>Appex Case</title>
+  </file>
+  <file>
+    <description>Symantec is an organization that deals in software and expands primarily through acquisitions. The company uses a differentiation strategy and is structured divisionally, with divisions stationed across the country. The company is experiencing issues dealing with an architecture that doesn't support the business properly, this is an analysis as to the root of the problem and what should be done to remedy the situation.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Symantec.pdf</filename>
+    <title>Symantec Case</title>
+  </file>
+  <file>
+    <description>Webvan was a new company rapidly expanding thanks to heavy investment, but not turning a profit. Founded by Louis Borders, the company sought to carve out a profit in a highly competitive market with a relatively small customer base. This analysis focuses on how Webvan can eventually become profitable and find a way to beat out the competition.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Webvan.pdf</filename>
+    <title>Webvan Case</title>
+  </file>
+  <link>
+    <description>This is a link to a Github repository for this project. The website seen here is a custom site I put together using html, css, javascript and php. The specific code can be viewed on GitHub by clicking the Portfolio button above. This custom site is hosted on a personal server I setup at home. It demonstrates my knowledge of both basic web architecture and the code that sits behind the website.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/portfolio</url>
+    <title>Portfolio Case</title>
+  </link>
+  <file>
+    <description>Waco, a manufacturer of custom machined parts, has implemented a new monitoring system in their facility that tracks and stores the whereabouts of employees at all times. This analysis focuses on how the company should handle the monitoring system with regards to its employees as ethical issues arise within the company.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Waco.pdf</filename>
+    <title>Waco Case</title>
+  </file>
+  <file>
+    <description>Agrico is a farm management company that purchases equity in land on behalf of investors and works with farm managers and farmers in share-cropping and land-rental arrangements. In the course of working with a firm hired to design the new system Agrico will use to conduct its business, the opportunity to copy the external firm's proprietary source code arises, and is an action the leader of the project for Agrico must consider. This case analyzes the ethics and morality behind each alternative. </description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Agrico.pdf</filename>
+    <title>Agrico Case</title>
+  </file>
+  <file>
+    <description>In this case, the IRS has just revamped its operations to use a computer system which has greatly simplified operations and has doubled productivity. The new system has caused great dissatisfaction in the organization among supervisors and employees alike. This analysis reviews the benefits of the alternatives listed in the case in order to provide optimum employee satisfaction and reduces turnover.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>IRS.pdf</filename>
+    <title>IRS Case</title>
+  </file>
+  <file>
+    <description>Connor Metal is a manufacturer of custom machined parts as well as some commodity parts. Over the last couple of years the company has gone through major restructuring, moving from a functional structure to divisional, with high emphasis on divisional autonomy. Two highly effective systems have been developed in two different divisions. One is Connor Software, the other Job Boss. This analysis focuses on how to push the newer and seemingly more effective Connor Software out to the three remaining divisions without violating divisional autonomy Bob Sloss, the CEO, has spent great time and effort to successfully implement.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Connor_Metal.pdf</filename>
+    <title>Connor Metal Case</title>
+  </file>
+  <link>
+    <description>This is a simple exercise from an introductory programming class. It is a simple program that allows users to enter their first, middle, and last names along with a preferred title. The input is then display depending on which button a user clicks. There are six formats in all.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199lab2</url>
+    <title>Intro Lab 2</title>
+  </link>
+  <link>
+    <description>A simple tip calculator, this program allows users to enter the price of their meal and the application will calculate tips for 15%, 18%, and 20%.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199lab3</url>
+    <title>Intro Lab 3</title>
+  </link>
+  <link>
+    <description>This is a simple admission decision making program that uses high school GPA and an admissions test score. It also keeps running totals of all applications that were accepted or rejected since the program was launched. These totals are displayed in the form as well.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199lab4</url>
+    <title>Intro Lab 4</title>
+  </link>
+  <link>
+    <description>This is a console application that writes patterns of characters using simple nested for loops. </description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199lab6</url>
+    <title>Intro Lab 6</title>
+  </link>
+  <link>
+    <description>This is another simple program to calculate prices for tickets based on distance traveled. The accompanying table is included in the instructions.txt in the repository. A use will enter a distance to travel, and the output is a ticket price.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199lab7</url>
+    <title>Intro Lab 7</title>
+  </link>
+  <link>
+    <description>This lab explores the use of Visual Studio to create a project that involves a class and a Form. This program explores creating classes with constructors, backing fields, and methods. Later in the advanced class, this is foundational for later assignments that explore classes and inheritance. This lab also explores overriding previous inherited methods such as ToString.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199lab8</url>
+    <title>Intro Lab 8</title>
+  </link>
+  <link>
+    <description>This program takes the square footage of wall space to be painted, the number of coats desired, and the price of the paint. It takes 8 hours to paint 325 square feet, the company also charge $10.50 an hour for labor. The output is displayed on the form with currency formatting from the object ToString method.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199Program1</url>
+    <title>Intro Program 1</title>
+  </link>
+  <link>
+    <description>This program determines the earliest time a continuing undergraduate at U of L may register for Fall 2015 courses. Priority registration information was collected from this site: http://louisville.edu/registrar/registration-information/prisummer. It takes the user's completed credit hours prior to Spring 2016 and the first letter of the user's last name to determine where they fall in scheduling.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199program2</url>
+    <title>Intro Program 2</title>
+  </link>
+  <link>
+    <description>This app offers the same solution as program two, only this one solves the problem with parallel arrays and range matching. The app will find when a student will be able to register based on accumulated credit hours and the first character of their last name.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199program3</url>
+    <title>Intro Program 3</title>
+  </link>
+  <link>
+    <description>This is a basic package shipping and tracking application. The only type of package this application tracks is a ground package. In later programs, other kinds of packages will be created, shipped and tracked. This program uses a six parameter constructor to create ground packages, these consist of the origin zip code, destination zip code, length, width, height and weight in pounds.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS199program4</url>
+    <title>Intro Program 4</title>
+  </link>
+  <link>
+    <description>This lab is just shows a basic understanding of LINQ queries. All this lab does is initiated an array and searches through it using several different LINQ queries.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS200lab1</url>
+    <title>Advanced Lab 1</title>
+  </link>
+  <link>
+    <description>This assignment explores the use of composition (HAS-A) and inheritance as relationships between classes. This assignment demonstrates the reuse of code in object oriented programming through inheritance in concrete and abstract classes.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS200program0</url>
+    <title>Adv. Program 0</title>
+  </link>
+  <link>
+    <description>This program explores the creation of a simple class hierarchy including (limited) use of polymorphism. Building on the instructors advanced program 0, I was tasked with creating classes derived from the abstract parcel base class. From these classes I derive other concrete classes to create and calculate the cost of shipping of various types of packages.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS200program1A</url>
+    <title>Adv. Program 1A</title>
+  </link>
+  <link>
+    <description>This program generates a list of objects and puts them in an array. LINQ queries are then used to sort the parcel objects in the array by destination zip code, order cost, and parcel type. Finally, all airpackage objects are selected that are considered heavy, and ordered by weight.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS200program1B</url>
+    <title>Adv. Program 1B</title>
+  </link>
+  <link>
+    <description>This program begins the GUI application that will be developed further in later programs. This program features a menu and a form for creating parcel objects. The form also has an error provider for validating input before attempting to create parcel objects.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS200program2</url>
+    <title>Adv. Program 2</title>
+  </link>
+  <link>
+    <description>This program builds on Program 2. This program explores file I/O object serialization. The menu in this program allows users to create objects, save them to a serialized file, and open them again after the program has closed and the file has been loaded. </description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS200program3</url>
+    <title>Adv. Program 3</title>
+  </link>
+  <link>
+    <description>This program uses a couple IComparable interfaces to compare parcel objects and sort them in specific order by their properties. In this program, the parcel objects are ordered by zip code and cost.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/CIS200program4</url>
+    <title>Adv. Program 4</title>
+  </link>
+  <file>
+    <description>In this assignment, a group of class mates and I compiled out class schedules for the semester. Afterward, we listed the major sources of redundancy. We then used one of the identified sources of data redundancies provide an example of update anomaly using the sample data. Finding sources of redundancy is foundational in normalizing databases.</description>
+    <parent>Database</parent>
+    <filename>A1.pdf</filename>
+    <title>Assignment 1</title>
+  </file>
+  <file>
+    <description>This assignment is an analysis of some tables from a database textbook. In the assignment, I list the relationships among the tables and how the entities interact in the database.</description>
+    <parent>Database</parent>
+    <filename>A2.pdf</filename>
+    <title>Assignment 2</title>
+  </file>
+  <file>
+    <description>This assignment is a list of the business rules within a set of tables. Knowing business rules is essential in designing a relational database without unnecessary redundancy.</description>
+    <parent>Database</parent>
+    <filename>A3.pdf</filename>
+    <title>Assignment 3</title>
+  </file>
+  <file>
+    <description>This assignments lists a set of tables, upon which I manually perform Product, Select, and Project operations. Afterward I show what the tables would look like after a right outer join and a left outer join. How outer joins are performed can changes the resulting table, understanding this is necessary when designing complex queries.</description>
+    <parent>Database</parent>
+    <filename>A4.pdf</filename>
+    <title>Assignment 4</title>
+  </file>
+  <file>
+    <description>This is a Crow's Foot ERD in full glory. </description>
+    <parent>Database</parent>
+    <filename>A5.pdf</filename>
+    <title>Assignment 5</title>
+  </file>
+  <file>
+    <description>This assignments shows what a database would look like moving from 2NF to 3NF, the final image is a Crow's Foot ERD of the tables within the hypothetical database.</description>
+    <parent>Database</parent>
+    <filename>A6.pdf</filename>
+    <title>Assignment 6</title>
+  </file>
+  <file>
+    <description>This is a collection of basic SQL queries based on a table listed in the top of the assignment.</description>
+    <parent>Database</parent>
+    <filename>A7.pdf</filename>
+    <title>Asssignment 7</title>
+  </file>
+</files>

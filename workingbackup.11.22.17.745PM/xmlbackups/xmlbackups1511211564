@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<files>
+  <file>
+    <description>This is a case analysis of Burlington Northern, a railroad company. In the case the company is considering implementing the ARES system, which would require an investment of several hundred million dollars. In the case I analyze the costs and benefits associated with such a system, and conclude with a recommendation based on the evidence within the case.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Burlington_Northern.pdf</filename>
+    <title>Burlington Northern</title>
+  </file>
+  <file>
+    <description>This case analysis is centered around the organizational structure of the Appex corporation. Appex was a fast-paced, rapidly expanding company in the late 80's/early 90's. Focused on cellular technology, the company quickly ran into trouble with managing its ever expanding group of employees, getting projects out on time, and providing good customer service. Organizational structure is derived from organizational strategy and plays a role in determining IT architecture, the jobs created to support the architecture, and the people hired to filled the jobs.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Case_2_draft.pdf</filename>
+    <title>Appex</title>
+  </file>
+  <file>
+    <description>Symantec is an organization that deals in software and expands primarily through acquisitions. The company uses a differentiation strategy and is structured divisionally, with divisions stationed across the country. The company is experiencing issues dealing with an architecture that doesn't support the business properly, this is an analysis as to the root of the problem and what should be done to remedy the situation.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Symantec.pdf</filename>
+    <title>Symantec</title>
+  </file>
+  <file>
+    <description>Webvan was a new company rapidly expanding thanks to heavy investment, but not turning a profit. Founded by Louis Borders, the company sought to carve out a profit in a highly competitive market with a relatively small customer base. This analysis focuses on how Webvan can eventually become profitable and find a way to beat out the competition.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Webvan.pdf</filename>
+    <title>Webvan</title>
+  </file>
+  <link>
+    <description>This is a link to a Github repository for this project. The website seen here is a custom site I put together using html, css, javascript and php. The specific code can be viewed on GitHub by clicking the Portfolio button above. This custom site is hosted on a personal server I setup at home. It demonstrates my knowledge of both basic web architecture and the code that sits behind the website.</description>
+    <parent>Programming</parent>
+    <url>https://github.com/tmahan95/portfolio</url>
+    <title>Portfolio</title>
+  </link>
+  <file>
+    <description>Waco, a manufacturer of custom machined parts, has implemented a new monitoring system in their facility that tracks and stores the whereabouts of employees at all times. This analysis focuses on how the company should handle the monitoring system with regards to its employees as ethical issues arise within the company.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Waco.pdf</filename>
+    <title>Waco</title>
+  </file>
+  <file>
+    <description>Agrico is a farm management company that purchases equity in land on behalf of investors and works with farm managers and farmers in share-cropping and land-rental arrangements. In the course of working with a firm hired to design the new system Agrico will use to conduct its business, the opportunity to copy the external firm's proprietary source code arises, and is an action the leader of the project for Agrico must consider. This case analyzes the ethics and morality behind each alternative. </description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Agrico.pdf</filename>
+    <title>Agrico</title>
+  </file>
+  <file>
+    <description>In this case, the IRS has just revamped its operations to use a computer system which has greatly simplified operations and has doubled productivity. The new system has caused great dissatisfaction in the organization among supervisors and employees alike. This analysis reviews the benefits of the alternatives listed in the case in order to provide optimum employee satisfaction and reduces turnover.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>IRS.pdf</filename>
+    <title>IRS Case</title>
+  </file>
+  <file>
+    <description>Connor Metal is a manufacturer of custom machined parts as well as some commodity parts. Over the last couple of years the company has gone through major restructuring, moving from a functional structure to divisional, with high emphasis on divisional autonomy. Two highly effective systems have been developed in two different divisions. One is Connor Software, the other Job Boss. This analysis focuses on how to push the newer and seemingly more effective Connor Software out to the three remaining divisions without violating divisional autonomy Bob Sloss, the CEO, has spent great time and effort to successfully implement.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Connor_Metal.pdf</filename>
+    <title>Connor Metal</title>
+  </file>
+</files>

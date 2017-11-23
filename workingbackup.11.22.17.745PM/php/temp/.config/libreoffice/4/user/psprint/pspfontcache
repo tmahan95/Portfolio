@@ -1,0 +1,428 @@
+LibreOffice PspFontCacheFile format 6
+FontCacheDirectory:1510670582:/usr/share/fonts/opentype/stix
+File:STIXVariants-Regular.otf
+2;1
+STIXVariants
+0;STIXVariants-Regular;0;5;5;2;65535;1055;455;510;0;1096;1510;1096;1510;0;0;0;65536;Regular
+
+File:STIXSizeTwoSym-Regular.otf
+2;1
+STIXSizeTwoSym
+0;STIXSizeTwoSym-Regular;0;5;5;2;65535;2095;404;1499;0;3386;2499;3386;2499;0;0;0;65536;Regular
+
+File:STIXSizeTwoSym-Bold.otf
+2;1
+STIXSizeTwoSym
+0;STIXSizeTwoSym-Bold;0;8;5;2;65535;2095;404;1499;0;1181;2499;1181;2499;0;0;0;65536;Bold
+
+File:STIXSizeThreeSym-Regular.otf
+2;1
+STIXSizeThreeSym
+0;STIXSizeThreeSym-Regular;0;5;5;2;65535;2604;510;2114;0;4312;3114;4312;3114;0;0;0;65536;Regular
+
+File:STIXSizeThreeSym-Bold.otf
+2;1
+STIXSizeThreeSym
+0;STIXSizeThreeSym-Bold;0;8;5;2;65535;2604;510;2114;0;1143;3114;1143;3114;0;0;0;65536;Bold
+
+File:STIXSizeOneSym-Regular.otf
+2;1
+STIXSizeOneSym
+0;STIXSizeOneSym-Regular;0;5;5;2;65535;1588;363;951;0;2503;1951;2503;1951;0;0;0;65536;Regular
+
+File:STIXIntegralsUp-Regular.otf
+2;1
+STIXIntegralsUp
+0;STIXIntegralsUp-Regular;0;5;5;2;65535;1055;455;510;0;1104;1510;1104;1510;0;0;0;65536;Regular
+
+File:STIXNonUnicode-Bold.otf
+2;1
+STIXNonUnicode
+0;STIXNonUnicode-Bold;0;8;5;2;65535;1450;552;1002;0;1273;2002;1273;2002;0;0;0;65536;Bold
+
+File:STIXIntegralsD-Bold.otf
+2;1
+STIXIntegralsD
+0;STIXIntegralsD-Bold;0;8;5;2;65535;2182;451;1633;0;2306;2633;2306;2633;0;0;0;65536;Bold
+
+File:STIXSizeFourSym-Regular.otf
+2;1
+STIXSizeFourSym
+0;STIXSizeFourSym-Regular;0;5;5;2;65535;2604;510;2114;0;5238;3114;5238;3114;0;0;0;65536;Regular
+
+File:STIXIntegralsD-Regular.otf
+2;1
+STIXIntegralsD
+0;STIXIntegralsD-Regular;0;5;5;2;65535;2182;451;1633;0;1941;2633;1941;2633;0;0;0;65536;Regular
+
+File:STIXGeneral-Bold.otf
+2;1
+STIXGeneral
+0;STIXGeneral-Bold;0;8;5;2;65535;1055;455;510;0;2998;1510;2998;1510;0;0;0;65536;Bold
+
+File:STIXSizeOneSym-Bold.otf
+2;1
+STIXSizeOneSym
+0;STIXSizeOneSym-Bold;0;8;5;2;65535;1588;363;951;0;1320;1951;1320;1951;0;0;0;65536;Bold
+
+File:STIXGeneral-BoldItalic.otf
+2;1
+STIXGeneral
+0;STIXGeneral-BoldItalic;2;8;5;2;65535;1042;455;497;0;2183;1497;2183;1497;0;0;0;65536;Bold Italic
+
+File:STIXIntegralsSm-Bold.otf
+2;1
+STIXIntegralsSm
+0;STIXIntegralsSm-Bold;0;8;5;2;65535;1055;455;510;0;1536;1510;1536;1510;0;0;0;65536;Bold
+
+File:STIXGeneral-Italic.otf
+2;1
+STIXGeneral
+0;STIXGeneral-Italic;2;5;5;2;65535;1055;455;510;0;2399;1510;2399;1510;0;0;0;65536;Italic
+
+File:STIXIntegralsSm-Regular.otf
+2;1
+STIXIntegralsSm
+0;STIXIntegralsSm-Regular;0;5;5;2;65535;1055;455;510;0;1229;1510;1229;1510;0;0;0;65536;Regular
+
+File:STIXGeneral-Regular.otf
+2;1
+STIXGeneral
+0;STIXGeneral-Regular;0;5;5;2;65535;1055;455;510;0;2970;1510;2970;1510;0;0;0;65536;Regular
+
+File:STIXVariants-Bold.otf
+2;1
+STIXVariants
+0;STIXVariants-Bold;0;8;5;2;65535;1055;455;510;0;1306;1510;1306;1510;0;0;0;65536;Bold
+
+File:STIXIntegralsUpD-Regular.otf
+2;1
+STIXIntegralsUpD
+0;STIXIntegralsUpD-Regular;0;5;5;2;65535;2182;451;1633;0;1442;2633;1442;2633;0;0;0;65536;Regular
+
+File:STIXIntegralsUpD-Bold.otf
+2;1
+STIXIntegralsUpD
+0;STIXIntegralsUpD-Bold;0;8;5;2;65535;2182;451;1633;0;1675;2633;1675;2633;0;0;0;65536;Bold
+
+File:STIXIntegralsUpSm-Regular.otf
+2;1
+STIXIntegralsUpSm
+0;STIXIntegralsUpSm-Regular;0;5;5;2;65535;1055;455;510;0;1069;1510;1069;1510;0;0;0;65536;Regular
+
+File:STIXIntegralsUp-Bold.otf
+2;1
+STIXIntegralsUp
+0;STIXIntegralsUp-Bold;0;8;5;2;65535;1055;455;510;0;1302;1510;1302;1510;0;0;0;65536;Bold
+
+File:STIXIntegralsUpSm-Bold.otf
+2;1
+STIXIntegralsUpSm
+0;STIXIntegralsUpSm-Bold;0;8;5;2;65535;1055;455;510;0;1216;1510;1216;1510;0;0;0;65536;Bold
+
+File:STIXNonUnicode-Regular.otf
+2;1
+STIXNonUnicode
+0;STIXNonUnicode-Regular;0;5;5;2;65535;1450;552;1002;0;2280;2002;2280;2002;0;0;0;65536;Regular
+
+File:STIXNonUnicode-BoldItalic.otf
+2;1
+STIXNonUnicode
+0;STIXNonUnicode-BoldItalic;2;8;5;2;65535;1450;552;1002;0;1334;2002;1334;2002;0;0;0;65536;Bold Italic
+
+File:STIXSizeFiveSym-Regular.otf
+2;1
+STIXSizeFiveSym
+0;STIXSizeFiveSym-Regular;0;5;5;2;65535;960;454;414;0;6238;1414;6238;1414;0;0;0;65536;Regular
+
+File:STIXNonUnicode-Italic.otf
+2;1
+STIXNonUnicode
+0;STIXNonUnicode-Italic;2;5;5;2;65535;1450;552;1002;0;1269;2002;1269;2002;0;0;0;65536;Italic
+
+File:STIXSizeFourSym-Bold.otf
+2;1
+STIXSizeFourSym
+0;STIXSizeFourSym-Bold;0;8;5;2;65535;2604;510;2114;0;1315;3114;1315;3114;0;0;0;65536;Bold
+
+FontCacheDirectory:1510670582:/usr/share/fonts/opentype/stix-word
+File:STIXMath-Regular.otf
+2;1
+STIX Math
+0;STIXMath-Regular;0;5;5;2;65535;2566;524;2090;0;4208;3090;4208;3090;0;0;0;65536;Regular
+
+File:STIX-Regular.otf
+2;1
+STIX
+0;STIX-Regular;0;5;5;2;65535;1023;486;509;0;3178;1509;3178;1509;0;0;0;65536;Regular
+
+File:STIX-Bold.otf
+2;1
+STIX
+0;STIX-Bold;0;8;5;2;65535;1055;552;607;0;2998;1607;2998;1607;0;0;0;65536;Bold
+
+File:STIX-Italic.otf
+2;1
+STIX
+0;STIX-Italic;2;5;5;2;65535;1023;305;328;0;2399;1328;2399;1328;0;0;0;65536;Italic
+
+File:STIX-BoldItalic.otf
+2;1
+STIX
+0;STIX-BoldItalic;2;8;5;2;65535;1004;359;363;0;2183;1363;2183;1363;0;0;0;65536;Bold Italic
+
+FontCacheDirectory:1510670573:/usr/share/fonts/truetype/openoffice
+File:opens___.ttf
+2;1
+OpenSymbol
+0;OpenSymbol;0;5;5;2;65535;799;200;-1;0;1262;999;1262;999;0;0;0;8;Regular
+
+FontCacheDirectory:1510670573:/usr/share/fonts/truetype/dejavu
+File:DejaVuSerif-Italic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Italic;2;5;5;2;65535;928;235;163;0;2483;1163;2483;1163;0;0;0;0;Italic
+
+File:DejaVuSerifCondensed-Italic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Italic;2;5;4;2;65535;928;235;163;0;2235;1163;2235;1163;0;0;0;0;Condensed Italic
+
+File:DejaVuSerifCondensed-Bold.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Bold;0;8;4;2;65535;938;235;173;0;2368;1173;2368;1173;0;0;0;0;Condensed Bold
+
+File:DejaVuSerif-BoldItalic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-BoldItalic;2;8;5;2;65535;938;235;173;0;2658;1173;2658;1173;0;0;0;0;Bold Italic
+
+File:DejaVuSerifCondensed-BoldItalic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-BoldItalic;2;8;4;2;65535;938;235;173;0;2393;1173;2393;1173;0;0;0;0;Condensed Bold Italic
+
+File:DejaVuSerif.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif;0;5;5;2;65535;928;235;163;0;2874;1163;2874;1163;0;0;0;0;Book
+
+File:DejaVuSerif-Bold.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Bold;0;8;5;2;65535;938;235;173;0;2630;1173;2630;1173;0;0;0;0;Bold
+
+File:DejaVuSansMono-Bold.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Bold;0;8;5;1;65535;928;235;163;0;1176;1163;1176;1163;0;0;0;0;Bold
+
+File:DejaVuSans-BoldOblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-BoldOblique;1;8;5;2;65535;928;235;163;0;3064;1163;3064;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSerifCondensed.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed;0;5;4;2;65535;928;235;163;0;2587;1163;2587;1163;0;0;0;0;Condensed
+
+File:DejaVuSansMono-Oblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Oblique;1;5;5;1;65535;928;235;163;0;1148;1163;1148;1163;0;0;0;0;Oblique
+
+File:DejaVuSans-Bold.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Bold;0;8;5;2;65535;928;235;163;0;3044;1163;3044;1163;0;0;0;0;Bold
+
+File:DejaVuSansCondensed-Oblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Oblique;1;5;4;2;65535;928;235;163;0;2407;1163;2407;1163;0;0;0;0;Condensed Oblique
+
+File:DejaVuSansCondensed-BoldOblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-BoldOblique;1;8;4;2;65535;928;235;163;0;2758;1163;2758;1163;0;0;0;0;Condensed Bold Oblique
+
+File:DejaVuSansCondensed.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed;0;5;4;2;65535;928;235;163;1;2532;1163;2532;1163;0;0;0;0;Condensed
+
+File:DejaVuSansCondensed-Bold.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Bold;0;8;4;2;65535;928;235;163;0;2739;1163;2739;1163;0;0;0;0;Condensed Bold
+
+File:DejaVuSans.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans;0;5;5;2;65535;928;235;163;1;2813;1163;2813;1163;0;0;0;0;Book
+
+File:DejaVuSans-Oblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Oblique;1;5;5;2;65535;928;235;163;0;2674;1163;2674;1163;0;0;0;0;Oblique
+
+File:DejaVuSans-ExtraLight.ttf
+2;1
+DejaVu Sans Light
+0;DejaVuSans-ExtraLight;0;2;5;2;65535;928;235;163;0;2391;1163;2391;1163;0;0;0;0;ExtraLight
+
+File:DejaVuSansMono-BoldOblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-BoldOblique;1;8;5;1;65535;928;235;163;0;1232;1163;1232;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSansMono.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono;0;5;5;1;65535;928;235;163;0;1274;1163;1274;1163;0;0;0;0;Book
+
+FontCacheDirectory:1510670573:/usr/share/fonts/truetype/gentium
+File:GentiumAlt-R.ttf
+2;1
+GentiumAlt
+0;GentiumAlt;0;5;5;2;65535;858;275;133;0;1816;1133;1816;1133;0;0;0;0;Regular
+
+File:Gentium-I.ttf
+2;1
+Gentium
+0;Gentium-Italic;2;5;5;2;65535;844;262;106;0;1655;1106;1655;1106;0;0;0;0;Italic
+
+File:GentiumAlt-I.ttf
+2;1
+GentiumAlt
+0;GentiumAlt-Italic;2;5;5;2;65535;844;262;106;0;1655;1106;1655;1106;0;0;0;0;Italic
+
+File:Gentium-R.ttf
+2;1
+Gentium
+0;Gentium;0;5;5;2;65535;858;275;133;0;1816;1133;1816;1133;0;0;0;0;Regular
+
+FontCacheDirectory:1510670573:/usr/share/fonts/truetype/gentium-basic
+File:GenBkBasB.ttf
+2;1
+Gentium Book Basic
+0;GentiumBookBasic-Bold;0;8;5;2;65535;874;283;157;0;1579;1157;1579;1157;0;0;0;0;Bold
+
+File:GenBkBasBI.ttf
+2;1
+Gentium Book Basic
+0;GentiumBookBasic-BoldItalic;2;8;5;2;65535;874;283;157;0;1445;1157;1445;1157;0;0;0;0;Bold Italic
+
+File:GenBkBasI.ttf
+2;1
+Gentium Book Basic
+0;GentiumBookBasic-Italic;2;5;5;2;65535;874;283;157;0;1330;1157;1330;1157;0;0;0;0;Italic
+
+File:GenBasR.ttf
+2;1
+Gentium Basic
+0;GentiumBasic;0;5;5;2;65535;874;283;157;0;1477;1157;1477;1157;0;0;0;0;Regular
+
+File:GenBkBasR.ttf
+2;1
+Gentium Book Basic
+0;GentiumBookBasic;0;5;5;2;65535;874;283;157;0;1501;1157;1501;1157;0;0;0;0;Regular
+
+File:GenBasI.ttf
+2;1
+Gentium Basic
+0;GentiumBasic-Italic;2;5;5;2;65535;874;283;157;0;1292;1157;1292;1157;0;0;0;0;Italic
+
+File:GenBasBI.ttf
+2;1
+Gentium Basic
+0;GentiumBasic-BoldItalic;2;8;5;2;65535;874;283;157;0;1407;1157;1407;1157;0;0;0;0;Bold Italic
+
+File:GenBasB.ttf
+2;1
+Gentium Basic
+0;GentiumBasic-Bold;0;8;5;2;65535;874;283;157;0;1549;1157;1549;1157;0;0;0;0;Bold
+
+FontCacheDirectory:1510670573:/usr/share/fonts/truetype/liberation
+File:LiberationSerif-Regular.ttf
+2;1
+Liberation Serif
+0;LiberationSerif;0;5;5;2;65535;891;216;107;0;1182;1107;1182;1107;0;0;0;0;Regular
+
+File:LiberationSansNarrow-Italic.ttf
+2;1
+Liberation Sans Narrow
+0;LiberationSansNarrow-Italic;2;5;3;2;65535;921;210;131;0;1223;1131;1223;1131;0;0;0;0;Italic
+
+File:LiberationSans-Bold.ttf
+2;1
+Liberation Sans
+0;LiberationSans-Bold;0;8;5;2;65535;905;211;116;0;1246;1116;1246;1116;0;0;0;0;Bold
+
+File:LiberationSansNarrow-Regular.ttf
+2;1
+Liberation Sans Narrow
+0;LiberationSansNarrow;0;5;3;2;65535;921;210;131;0;1166;1131;1166;1131;0;0;0;0;Regular
+
+File:LiberationMono-BoldItalic.ttf
+2;1
+Liberation Mono
+0;LiberationMono-BoldItalic;2;8;5;1;65535;832;300;132;0;791;1132;791;1132;0;0;0;0;Bold Italic
+
+File:LiberationSans-Regular.ttf
+2;1
+Liberation Sans
+0;LiberationSans;0;5;5;2;65535;905;211;116;0;1253;1116;1253;1116;0;0;0;0;Regular
+
+File:LiberationSansNarrow-BoldItalic.ttf
+2;1
+Liberation Sans Narrow
+0;LiberationSansNarrow-BoldItalic;2;8;3;2;65535;921;210;131;0;1171;1131;1171;1131;0;0;0;0;Bold Italic
+
+File:LiberationSerif-Bold.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-Bold;0;8;5;2;65535;891;216;107;0;1266;1107;1266;1107;0;0;0;0;Bold
+
+File:LiberationSerif-BoldItalic.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-BoldItalic;2;8;5;2;65535;891;216;107;0;1328;1107;1328;1107;0;0;0;0;Bold Italic
+
+File:LiberationSerif-Italic.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-Italic;2;5;5;2;65535;891;216;107;0;1263;1107;1263;1107;0;0;0;0;Italic
+
+File:LiberationMono-Regular.ttf
+2;1
+Liberation Mono
+0;LiberationMono;0;5;5;1;65535;832;300;132;0;632;1132;632;1132;0;0;0;0;Regular
+
+File:LiberationSans-Italic.ttf
+2;1
+Liberation Sans
+0;LiberationSans-Italic;2;5;5;2;65535;905;211;116;0;1333;1116;1333;1116;0;0;0;0;Italic
+
+File:LiberationMono-Bold.ttf
+2;1
+Liberation Mono
+0;LiberationMono-Bold;0;8;5;1;65535;832;300;132;0;640;1132;640;1132;0;0;0;0;Bold
+
+File:LiberationMono-Italic.ttf
+2;1
+Liberation Mono
+0;LiberationMono-Italic;2;5;5;1;65535;832;300;132;0;798;1132;798;1132;0;0;0;0;Italic
+
+File:LiberationSans-BoldItalic.ttf
+2;1
+Liberation Sans
+0;LiberationSans-BoldItalic;2;8;5;2;65535;905;211;116;0;1336;1116;1336;1116;0;0;0;0;Bold Italic
+
+File:LiberationSansNarrow-Bold.ttf
+2;1
+Liberation Sans Narrow
+0;LiberationSansNarrow-Bold;0;8;3;2;65535;921;210;131;0;1151;1131;1151;1131;0;0;0;0;Bold
+

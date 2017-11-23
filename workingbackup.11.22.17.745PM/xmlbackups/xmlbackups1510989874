@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<files>
+  <file>
+    <description>This is a case analysis of Burlington Northern, a railroad company. In the case the company is considering implementing the ARES system, which would require an investment of several hundred million dollars.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Burlington_Northern.pdf</filename>
+    <title>Burlington Northern</title>
+  </file>
+  <file>
+    <description>This case analysis is centered around the organizational structure of the Appex corporation. Appex was a fast-paced, rapidly expanding company in the late 80's/early 90's. Focused on cellular technology, the company quickly ran into trouble with managing its ever expanding group of employees, getting projects out on time, and providing good customer service. Organizational structure is derived from organizational strategy and plays a role in determining IT architecture, the jobs created to support the architecture, and the people hired to filled the jobs.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Case_2_draft.pdf</filename>
+    <title>Appex</title>
+  </file>
+  <file>
+    <description>Symantec is an organization that deals in software and expands primarily through acquisitions. The company uses a differentiation strategy and is structured divisionally, with divisions stationed across the country. The company is experiencing issues dealing with an architecture that doesn't support the business properly, this is an analysis as to the root of the problem and what should be done to remedy the situation.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Symantec.pdf</filename>
+    <title>Symantec</title>
+  </file>
+  <file>
+    <description>Webvan was a new company rapidly expanding thanks to heavy investment, but not turning a profit. Founded by Louis Borders, the company sought to carve out a profit in a highly competitive market with a relatively small customer base. This analysis focuses on how Webvan can eventually become profitable and find a way to beat out the competition.</description>
+    <parent>ManagementOfInformationSystems</parent>
+    <filename>Webvan.pdf</filename>
+    <title>Webvan</title>
+  </file>
+</files>
